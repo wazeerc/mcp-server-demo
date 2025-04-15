@@ -1,0 +1,1 @@
+[C# MCP SDK](https://github.com/modelcontextprotocol/csharp-sdk)
